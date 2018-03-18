@@ -2,6 +2,11 @@
 Thumbs.db
 ehthumbs.db
 
+# VS Files
+.vs/
+*/Debug/
+*/Release/
+
 # Folder config file
 Desktop.ini
 
